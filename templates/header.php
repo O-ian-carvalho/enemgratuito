@@ -30,7 +30,7 @@ include_once('config/url.php');
                 <ul>
                     <li><a href="<?= $BASE_URL ?>">Inicio</a></li>
                     <li><a href="<?= $BASE_URL ?>">Dicas</a></li>
-                    <li><a href="<?= $BASE_URL ?>">Sobre</a></li>
+                    <li><a href="<?= $BASE_URL ?>sobre.php">Sobre</a></li>
                 </ul>
             </div>
         </nav>

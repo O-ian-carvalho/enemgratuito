@@ -210,6 +210,50 @@ nav ul li a:hover{
     height: 100%;
     border-radius: 10px;
 }
+
+main{
+    min-height: 78vh;
+}
+footer{
+    background-color: #016191;
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+    padding: 20px 0;
+    color: #fff;
+    font-size: 12pt;
+}
+.sobre{
+    color: #1d1f30;
+}
+
+.about h2{
+    font-size: 18pt;
+    margin-bottom: 10px;
+}
+.about p{
+    font-size: 14pt;
+}
+.about{
+    padding: 20px;
+}
+
+.sobre ul {
+    list-style: none;
+}
+
+.sobre ul  li p{
+    margin-top: 10px;
+    font-size: 14pt;
+}
+
+.pq{
+    margin-top: 20px;
+}
+
+
+
+
 @media (max-width: 1200px) {
     .video iframe{
        

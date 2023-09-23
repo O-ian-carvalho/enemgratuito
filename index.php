@@ -2,8 +2,9 @@
 include_once('templates/header.php');
 ?>
 
-<main class='index'>
+<main >
 
+<div class='index'>
     <div class="materia">
         <div class="materianame">
             <h2>Matemática</h2>
@@ -23,6 +24,7 @@ include_once('templates/header.php');
             <a href="<?=$BASE_URL?>materia.php?materia=redacao"><button>Ver Curso</button></a>
         </div>
     </div>
+</div>
 </main>
 
 <?php
