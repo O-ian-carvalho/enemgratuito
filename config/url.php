@@ -1,3 +1,3 @@
 <?php
 
-$BASE_URL = 'https://enemgratuito-production.up.railway.app/';
+$BASE_URL = "http://" . $_SERVER['SERVER_NAME'] . dirname($_SERVER['REQUEST_URI'] . '?') . '/';

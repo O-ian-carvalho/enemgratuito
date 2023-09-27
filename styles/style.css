@@ -214,15 +214,7 @@ nav ul li a:hover{
 main{
     min-height: 78vh;
 }
-footer{
-    background-color: #016191;
-    margin-top: 20px;
-    width: 100%;
-    text-align: center;
-    padding: 20px 0;
-    color: #fff;
-    font-size: 12pt;
-}
+
 .sobre{
     color: #1d1f30;
 }

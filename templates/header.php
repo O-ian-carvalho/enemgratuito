@@ -14,6 +14,8 @@ include_once('config/url.php');
     <title>ENEM Gratuito</title>
     <link rel="stylesheet" href="<?= $BASE_URL ?>styles/style.css">
 
+    <link rel="icon" href="<?= $BASE_URL ?>img/icon.jpeg" type="image/x-icon">
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;900&display=swap" rel="stylesheet">
