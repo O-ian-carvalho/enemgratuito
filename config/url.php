@@ -1,3 +1,3 @@
 <?php
 
-$BASE_URL = 'https://enemgratuito.online/';
+$BASE_URL = 'https://enemgratuito.onrender.com/';
